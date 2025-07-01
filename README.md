@@ -1,19 +1,19 @@
-# 📱 Ruta Segura
+# Ruta Segura
 
 Aplicación móvil de asistencia para personas con discapacidad visual.
 Incluye geolocalización, comandos de voz y alertas sobre transporte público.
 
-## 📁 Estructura
+## Estructura
 - frontend/: interfaz React (mockup)
 - backend/: API REST (Express)
 - docs/: documentación técnica
 
-## 🚀 Flujo de trabajo con Git
+## Flujo de trabajo con Git
 1. `main` – producción
 2. `develop` – integración
 3. `feature/[nombre]` – nuevas funcionalidades
 
-## 📦 Comandos básicos
+## Comandos básicos
 ```bash
 git clone <repo>
 git checkout -b feature/mi-funcion
